@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zyqa5453y-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zyqa5453y-java-springboot
